@@ -11,3 +11,5 @@ Free CS books collection.
 - **[`Think Complexity`](http://greenteapress.com/compmod/html/index.html)**
 - **[`Clever Algorithms – Nature-Inspired Programming Recipes`](http://www.cleveralgorithms.com/nature-inspired/index.html)**
 - **[`Algorithms`](http://algs4.cs.princeton.edu/home/)**
+- **[`Beej's Guide to Network Programming`](http://beej.us/guide/bgnet/output/html/multipage/index.html)**
+- **[`Reverse Engineering for Beginners`](https://beginners.re/)**
