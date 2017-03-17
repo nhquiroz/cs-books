@@ -1,10 +1,6 @@
-<h1 align="center">
-  <br>
-    :books: cs-books
-  <br>
-</h1>
+# :books: cs-books
 
-Free CS books collection.
+> Free CS books collection.
 
 - **[`Structure and Interpretation of Computer Programs`](http://sarabander.github.io/sicp/)**
 - **[`Open Data Structures`](http://opendatastructures.org/ods-python/)**
